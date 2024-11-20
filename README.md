@@ -2,14 +2,16 @@
 Danganronpa V3 Dig Game [Rank S] Solution
 
 ### Prepare
-python3
-numpy
-cv2
+`python3.7`
+`numpy`
+`cv2`
 
 ### Introduction
 This code is for DanganranpoV3 dig game rank S solution.
 
 You need to take a screenshot of the game interface and rename it first. 
+
+`/1.png  # this is your screenshot file, named "1.png".`
 
 The code will automatically recognize the colors of the blocks in the screenshot and convert them into np.array. 
 
